@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sameernas22/Eunimart-Frontend-project/static/css/main.22043263.css",
-    "main.js": "/sameernas22/Eunimart-Frontend-project/static/js/main.59b4e083.js",
-    "static/js/787.28cb0dcd.chunk.js": "/sameernas22/Eunimart-Frontend-project/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/sameernas22/Eunimart-Frontend-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sameernas22/Eunimart-Frontend-project/index.html",
-    "main.22043263.css.map": "/sameernas22/Eunimart-Frontend-project/static/css/main.22043263.css.map",
-    "main.59b4e083.js.map": "/sameernas22/Eunimart-Frontend-project/static/js/main.59b4e083.js.map",
-    "787.28cb0dcd.chunk.js.map": "/sameernas22/Eunimart-Frontend-project/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Eunimart-Frontend-Project/static/css/main.22043263.css",
+    "main.js": "/Eunimart-Frontend-Project/static/js/main.eaf61615.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Eunimart-Frontend-Project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Eunimart-Frontend-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Eunimart-Frontend-Project/index.html",
+    "main.22043263.css.map": "/Eunimart-Frontend-Project/static/css/main.22043263.css.map",
+    "main.eaf61615.js.map": "/Eunimart-Frontend-Project/static/js/main.eaf61615.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Eunimart-Frontend-Project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22043263.css",
-    "static/js/main.59b4e083.js"
+    "static/js/main.eaf61615.js"
   ]
 }
