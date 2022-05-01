@@ -9,8 +9,8 @@ user data is gained from the provided api - for feching purpose used axios modul
 
 
 to run this project in your local machine : 
-  download the source file
-  name the main folder as my-app
-  install node.js
-  install react-router-dom module
-  install axios module
+1)Download the source file
+2)Name the main folder as my-app
+3)Install node.js
+4)Install react-router-dom module
+5)Install axios module
