@@ -17,74 +17,14 @@ const Users = () => {
     if(items){
         
         let item = items.data;
-        if(id==1){
+        if(id){
             return(
                 
                 <div className='card' >
-                <img src = {item[0].avatar} alt='image6'></img>
-                    <h1>First Name: {item[0].first_name}</h1>
-                    <h1>Last Name: {item[0].last_name}</h1>
-                    <h5>Email: {item[5].email}</h5>
-                </div>
-                
-            );
-        }
-        if(id==2){
-            return(
-               
-                <div className='card' >
-                <img src = {item[1].avatar} alt='image6'></img>
-                    <h1>First Name: {item[1].first_name}</h1>
-                    <h1>Last Name: {item[1].last_name}</h1>
-                    <h5>Email: {item[1].email}</h5>
-                </div>
-               
-            );
-        }
-        if(id==3){
-            return(
-                
-                <div className='card' >
-                <img src = {item[2].avatar} alt='image6'></img>
-                    <h1>First Name: {item[2].first_name}</h1>
-                    <h1>Last Name: {item[2].last_name}</h1>
-                    <h5>Email: {item[2].email}</h5>
-                </div>
-                
-            );
-        }
-        if(id==4){
-            return(
-                
-                <div className='card' >
-                <img src = {item[3].avatar} alt='image6'></img>
-                    <h1>First Name: {item[3].first_name}</h1>
-                    <h1>Last Name: {item[3].last_name}</h1>
-                    <h5>Email: {item[3].email}</h5>
-                </div>
-               
-            );
-        }
-        if(id==5){
-            return(
-               
-                <div className='card' >
-                <img src = {item[4].avatar} alt='image6'></img>
-                    <h1>First Name: {item[4].first_name}</h1>
-                    <h1>Last Name: {item[4].last_name}</h1>
-                    <h5>Email: {item[4].email}</h5>
-                </div>
-                
-            );
-        }
-        if(id==6){
-            return(
-                
-                <div className='card' >
-                <img src = {item[5].avatar} alt='image6'></img>
-                    <h1>First Name: {item[5].first_name}</h1>
-                    <h1>Last Name: {item[5].last_name}</h1>
-                    <h5>Email: {item[5].email}</h5>
+                <img src = {item[id-1].avatar} alt='image6'></img>
+                    <h1>First Name: {item[id-1].first_name}</h1>
+                    <h1>Last Name: {item[id-1].last_name}</h1>
+                    <h5>Email: {item[id-1].email}</h5>
                 </div>
                 
             );
